@@ -1,1 +1,11 @@
 //hello this is to try git//
+role of QA in agile world
+
+- Be a part of Sprint planning 
+
+- Attend daily stand ups
+- Plan work accordingly through out sprint cycle
+- Ensure test coverage  has met all acceptance criteria 
+- have frequent syncs up with dev team for any questions clarification while testing
+- demo the product along with dev team to stakeholders
+  
